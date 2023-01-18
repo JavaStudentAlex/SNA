@@ -8,6 +8,8 @@ authors = ["Mr. Oleksandr Tarasov <tarasik201617@gmail.com>"]
 python = "^3.8"
 jupyter = "^1.0.0"
 pathpy3 = {git = "git@github.com:pathpy/pathpy.git"}
+matplotlib = "^3.6.3"
+seaborn = "^0.12.2"
 
 [tool.poetry.dev-dependencies]
 
